@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @McCatony
+- 👀 I’m interested in Robotics
+- 🌱 I’m currently learning about autonomous driving.
+- 📫 How to reach me chowoo0303@gmail.com
